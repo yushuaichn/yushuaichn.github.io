@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yushuaichn.github.io</id>
     <title>One Secret</title>
-    <updated>2020-04-18T09:48:28.375Z</updated>
+    <updated>2020-04-18T09:49:51.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yushuaichn.github.io"/>
     <link rel="self" href="https://yushuaichn.github.io/atom.xml"/>
@@ -11,23 +11,10 @@
     <icon>https://yushuaichn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, One Secret</rights>
     <entry>
-        <title type="html"><![CDATA[关于]]></title>
+        <title type="html"><![CDATA[TEST]]></title>
         <id>https://yushuaichn.github.io/post/about/</id>
         <link href="https://yushuaichn.github.io/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://yushuaichn.github.io/post/hello-gridea/</id>
-        <link href="https://yushuaichn.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
     </entry>
 </feed>
